@@ -1,0 +1,12 @@
+.header {
+  background-color: #424242;
+  padding: 12px; }
+  .header .title span {
+    color: #ffffff;
+    font-size: 28px; }
+  .header .logo {
+    width: 100px; }
+
+.contenido {
+  display: flex;
+  justify-content: center; }

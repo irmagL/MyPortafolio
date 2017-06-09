@@ -1,0 +1,20 @@
+.header {
+  background-color: #424242;
+  padding: 12px;
+
+  .title {
+    span {
+      color: #ffffff;
+      font-size: 28px;
+    }
+  }
+
+  .logo {
+    width: 100px;
+  }
+}
+
+.contenido {
+  display: flex;
+  justify-content: center;
+}

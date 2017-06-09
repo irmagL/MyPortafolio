@@ -1,0 +1,19 @@
+.tile {
+  height: 120px;
+  padding: 12px;
+
+  .date {
+    color: rgba(0, 0, 0, 0.54);
+  }
+
+  .name {
+    margin-top: 4px;
+    span {
+      color: rgba(0, 0, 0, 0.87);
+    }
+  }
+
+  .description {
+    color: rgba(0, 0, 0, 0.54);
+  }
+}

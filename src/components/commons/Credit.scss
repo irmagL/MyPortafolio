@@ -1,0 +1,23 @@
+.credit {
+  display: flex;
+  height: 100px;
+  padding: 6px;
+  cursor: pointer;
+
+  img {
+    height: 100%;
+  }
+
+  .info {
+    padding: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    .credits {
+      span {
+        color: rgba(0, 0, 0, 0.54);
+      }
+    }
+  }
+}

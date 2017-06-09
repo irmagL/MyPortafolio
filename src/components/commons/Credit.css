@@ -1,0 +1,14 @@
+.credit {
+  display: flex;
+  height: 100px;
+  padding: 6px;
+  cursor: pointer; }
+  .credit img {
+    height: 100%; }
+  .credit .info {
+    padding: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; }
+    .credit .info .credits span {
+      color: rgba(0, 0, 0, 0.54); }

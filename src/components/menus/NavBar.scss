@@ -1,0 +1,30 @@
+.link {
+  text-decoration: none;
+  padding: 12px;
+  color: #FFFFFF;
+  font-size: 18px;
+
+  &:hover {
+    background-color: #575DA9;
+    text-decoration: none;
+    color: #FFFFFF;
+  }
+
+  &:active {
+    text-decoration: none;
+    color: #FFFFFF;
+  }
+
+  &:focus {
+    text-decoration: none;
+    color: #FFFFFF;
+  }
+
+  .text-link {
+    font-size: 18px;
+  }
+}
+
+.active {
+  background-color: #575DA9;
+}

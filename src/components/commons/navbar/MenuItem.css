@@ -1,0 +1,20 @@
+.link {
+  text-decoration: none;
+  padding: 12px;
+  color: rgba(0, 0, 0, 0.87);
+  font-size: 18px; }
+  .link:hover {
+    background-color: #FFA000;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.87); }
+  .link:active {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.87); }
+  .link:focus {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.87); }
+  .link .text-link {
+    font-size: 18px; }
+
+.active {
+  background-color: #FFA000; }

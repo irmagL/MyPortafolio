@@ -1,0 +1,13 @@
+.right {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center; }
+  .right .hour {
+    padding-left: 12px; }
+    .right .hour .time {
+      font-size: 16px;
+      color: rgba(0, 0, 0, 0.87); }
+    .right .hour .date {
+      font-size: 12px;
+      color: rgba(0, 0, 0, 0.54); }

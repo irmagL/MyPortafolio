@@ -1,0 +1,20 @@
+.right {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+  .hour {
+    padding-left: 12px;
+
+    .time {
+      font-size: 16px;
+      color: rgba(0, 0, 0, 0.87);
+    }
+
+    .date {
+      font-size: 12px;
+      color: rgba(0, 0, 0, 0.54);
+    }
+  }
+}
